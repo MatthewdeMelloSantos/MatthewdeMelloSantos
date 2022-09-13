@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @MatthewdeMelloSantos
-- 👀 Estou interessado em... aprender a programar 
-- 🌱 Estou aprendendo... a programar 
-- 📫 Como chegar até mim... matthew.santos@escola.pr.gov.br
+- 👀 Estou interessado em aprender a programar 
+- 🌱 Estou aprendendo a programar 
+- 📫 Como chegar até mim: matthew.santos@escola.pr.gov.br
 
 <!---
 MatthewdeMelloSantos/MatthewdeMelloSantos é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
